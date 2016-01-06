@@ -1,0 +1,14 @@
+
+
+h2.intro {
+  color: blue;
+}
+
+p.intro {
+  color: green;
+}
+
+img.intro {
+  border: 1px solid magenta;
+  max-width: 80%;
+}
